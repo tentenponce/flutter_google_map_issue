@@ -4,11 +4,11 @@ Simulate OpenGLRenderer issue on Flutter version 3.27.x, but not happening on Fl
 
 ## 3.27.x - has issue
 
-<img src="demo/3.27.x.gif" width="400" alt="3.27.x demo">
+<img src="demo/3.27.x.gif" width="200" alt="3.27.x demo">
 
 ## 3.24.x - no issue
 
-<img src="demo/3.24.x.gif" width="400" alt="3.24.x demo">
+<img src="demo/3.24.x.gif" width="200" alt="3.24.x demo">
 
 ## Getting Started
 
