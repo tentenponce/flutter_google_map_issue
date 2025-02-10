@@ -2,6 +2,14 @@
 
 Simulate OpenGLRenderer issue on Flutter version 3.27.x, but not happening on Flutter version 3.24.x.
 
+## 3.27.x - has issue
+
+[3.27.x recording](demo/3.27.x.mp4)
+
+## 3.24.x - no issue
+
+[3.24.x recording](demo/3.24.x.mp4)
+
 ## Getting Started
 
 - Install [FVM](https://fvm.app/) to easily switch Flutter versions - Optional, as long as you can switch Flutter version
