@@ -4,11 +4,11 @@ Simulate OpenGLRenderer issue on Flutter version 3.27.x, but not happening on Fl
 
 ## 3.27.x - has issue
 
-[3.27.x recording](demo/3.27.x.gif)
+![3.27.x recording](demo/3.27.x.gif)
 
 ## 3.24.x - no issue
 
-[3.24.x recording](demo/3.24.x.gif)
+![3.24.x recording](demo/3.24.x.gif)
 
 ## Getting Started
 
