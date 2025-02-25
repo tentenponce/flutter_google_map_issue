@@ -1,6 +1,6 @@
-# Flutter 3.27.x issue on Google Maps
+# Flutter 3.27.x and up issue on Google Maps
 
-Simulate OpenGLRenderer issue on recent Flutter versions (3.27.x and up), but not happening on Flutter version 3.24.x.
+Simulate OpenGLRenderer issue on recent Flutter versions (3.27.x and up), but not happening on Flutter version 3.24.x. [Issue link](https://github.com/flutter/flutter/issues/160854)
 
 ## 3.27.x & 3.29.0 - has issue
 
