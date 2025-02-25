@@ -1,8 +1,8 @@
 # Flutter 3.27.x issue on Google Maps
 
-Simulate OpenGLRenderer issue on Flutter version 3.27.x, but not happening on Flutter version 3.24.x.
+Simulate OpenGLRenderer issue on recent Flutter versions (3.27.x and up), but not happening on Flutter version 3.24.x.
 
-## 3.27.x - has issue
+## 3.27.x & 3.29.0 - has issue
 
 <img src="demo/3.27.x.gif" width="200" alt="3.27.x demo">
 
@@ -18,7 +18,7 @@ Simulate OpenGLRenderer issue on Flutter version 3.27.x, but not happening on Fl
 
 ## Replication Steps
 
-> Note: Make sure you are using Flutter version 3.27.x. Otherwise, the issue will not happen.
+> Note: Make sure you are using Flutter version 3.27.x (or 3.29.0). Otherwise, the issue will not happen.
 
 - Fling the map anywhere
 - Before the map stops, click the floating action button to navigate on a different screen
